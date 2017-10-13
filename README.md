@@ -33,13 +33,11 @@ keepass
 fsarchiver
 xsel
 rdesktop
-xfreerdp
-xfreerdp
 wine
 parcellite
 mercurial
 git
+freerdp
 
-http://www.freerdp.com
 https://www.resilio.com
 https://github.com/junegunn/fzf
