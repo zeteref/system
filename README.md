@@ -39,6 +39,7 @@ mercurial
 git
 freerdp
 sabayon-devkit
+docker
 
 https://www.resilio.com
 https://github.com/junegunn/fzf
