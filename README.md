@@ -38,6 +38,7 @@ parcellite
 mercurial
 git
 freerdp
+sabayon-devkit
 
 https://www.resilio.com
 https://github.com/junegunn/fzf
