@@ -1,0 +1,32 @@
+equo install opera
+equo install x11-wm/sawfish sawfish-themes
+equo install ranger
+equo install xlock
+equo install xlockmore
+equo install layman
+equo install arandr
+equo install google-chrome
+equo install rxvt-unicode
+equo install gmrun 
+equo install xdo
+equo install unrar
+equo install util-linux
+equo install socket pcmanfm stalonetray at nodejs php xclip xbindkey virtualbox
+equo install xcape
+equo install conky
+equo install xinput
+equo install stalonetray
+equo install compton
+equo install synergy
+equo install feh
+equo install shutter
+equo install keepass
+equo install fsarchiver
+equo install xsel
+equo install rdesktop
+equo install xfreerdp
+equo install xfreerdp
+equo install http://www.freerdp.com
+equo install https://www.resilio.com
+equo install wine
+equo install parcellite
