@@ -36,6 +36,9 @@ xfreerdp
 xfreerdp
 wine
 parcellite
+mercurial
+git
 
 http://www.freerdp.com
 https://www.resilio.com
+https://github.com/junegunn/fzf
