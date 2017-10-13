@@ -1,5 +1,6 @@
 opera
-x11-wm/sawfish sawfish-themes
+x11-wm/sawfish 
+sawfish-themes
 ranger
 xlock
 xlockmore
